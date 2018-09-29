@@ -16,5 +16,5 @@ DESCRIPTION
               do not ignore entries starting with .
 
        -a, --almost-all
-              do not list implied . and ..
+              do not list xxxxxxx . and ..
 
